@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "contact": "Partner With Us"
+  },
+  "hero": {
+    "title": "Empowering Communities. Transforming Lives.",
+    "subtitle": "Youth for World Nepal (YWN) works directly with communities to build sustainable ways out of poverty, improve health, and encourage local leadership across rural Nepal.",
+    "btnPrimary": "Discover Our Impact",
+    "btnSecondary": "Partner With Us"
+  },
+  "trust": {
+    "text": "Established 2004 | CDO Regd No: 629 | KMC Ward 31 Regd: 33 | SWC Affiliation: 18085"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "20 Years of Grassroots Impact",
+    "historyTitle": "Our Foundation",
+    "history": "Founded in 2004 (2061 BS), Youth for World Nepal (YWN) is a non-profit dedicated to improving the lives of Nepal's most disadvantaged communities. We believe that development is a human right, not just charity.",
+    "governanceTitle": "Democratic Governance",
+    "governance": "Transparency starts at the top. We are governed by a democratic General Assembly, ensuring that our direction is always dictated by the communities we serve. Day-to-day operations are strictly managed by a highly skilled Central Office in Kathmandu.",
+    "boardTitle": "Our Executive Board",
+    "boardSubtitle": "Guided by elite public health doctors, epidemiologists, and social scientists.",
+    "board": {
+      "achyut": { "name": "Mr. Achyut Kumar Ojha", "role": "President", "creds": "MBS / MA Sociology" },
+      "bijay": { "name": "Dr. Bijay Thapa", "role": "Vice-President", "creds": "MD Community Medicine" },
+      "pawan": { "name": "Dr. Pawan Upadhyaya", "role": "Secretary", "creds": "MBBS / MD Community Medicine" },
+      "namrata": { "name": "Ms. Namrata Ghimire", "role": "Treasurer", "creds": "BA / ANM" },
+      "tej": { "name": "Dr. Tej Bahadur Karki", "role": "Member", "creds": "PhD" },
+      "binod": { "name": "Mr. Binod Khanal", "role": "Member", "creds": "BPH" },
+      "hira": { "name": "Ms. Hira Kumari Bartaula", "role": "Member", "creds": "MA" }
+    },
+    "teamTitle": "Core Program Team",
+    "teamSubtitle": "The operational experts executing massive rural projects.",
+    "team": {
+      "sunlal": { "name": "Dr. Sunlal Thapa", "role": "Program Director", "desc": "Leading field operations with over 33 years of experience at the Ministry of Health." },
+      "basudev": { "name": "Mr. Basudev Khatiwada", "role": "Program Manager", "desc": "Ensuring strict compliance, logistics, and on-time project delivery across all 32+ districts." }
+    }
+  },
+  "programs": {
+    "title": "Our Programs & Impact",
+    "subtitle": "We focus on four main areas to fix the root causes of poverty.",
+    "areas": {
+      "edu": { "title": "Education", "desc": "Teaching people their rights and fighting illiteracy at the grassroots level." },
+      "liv": { "title": "Livelihood", "desc": "Promoting climate-smart farming and microfinance to create sustainable income." },
+      "health": { "title": "Health & Nutrition", "desc": "Focusing on disease prevention, maternal health, and aggressively training local health workers." },
+      "gov": { "title": "Governance", "desc": "Helping citizens hold their local governments accountable for better resource distribution." }
+    },
+    "projectsTitle": "20 Years of Proven Execution",
+    "projectsSubtitle": "Over the last two decades, we have handled large budgets and complex projects seamlessly.",
+    "projects": {
+      "smart": { "title": "Smart Dampati Campaign", "desc": "Reached 81,000+ couples for family planning in direct partnership with USAID and NHEICC." },
+      "malaria": { "title": "Malariometric Survey", "desc": "Successfully surveyed 5,868 samples across 32 hard-to-reach districts for the Global Fund." },
+      "lymphatic": { "title": "Lymphatic Filariasis Survey", "desc": "Conducted deep-field research, surveying 15,000 households across 10 districts for RTI/USAID." },
+      "nutrition": { "title": "Nutrition Programs", "desc": "Handled massive maternal nutrition training across 10 districts for the Micronutrient Initiative." }
+    }
+  }
+}

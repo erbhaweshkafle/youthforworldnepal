@@ -1,0 +1,27 @@
+/* Tailwind v4 uses an import instead of the old @tailwind directives */
+@import "tailwindcss";
+
+/* Define your global brand colors here for v4 */
+@theme {
+  --color-ywnTeal: #00272c;
+  --color-ywnLime: #e1ff51;
+  --color-ywnLight: #f8f9fa;
+}
+
+@layer base {
+  body {
+    /* This forces the ENTIRE site background to Teal */
+    @apply bg-ywnTeal text-gray-200 selection:bg-ywnLime selection:text-ywnTeal;
+  }
+  
+  /* This ensures scrollbars match the dark theme */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-ywnTeal;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-ywnLime/50 rounded-full hover:bg-ywnLime;
+  }
+}
